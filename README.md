@@ -1,2 +1,2 @@
-# Themefrey-landing-page-website-folder
+# Themefrey-landing-page-website
  Themefrey Landing Page 
