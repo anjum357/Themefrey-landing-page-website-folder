@@ -271,6 +271,16 @@
     margin-left: 45%;
     margin-bottom: 1.5rem;
   }
+
+ .gradient-text5 {
+    background: linear-gradient(45deg, #6b6efe, #9f42fc, #6c6eff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-left: 40%;
+    margin-bottom: 1.5rem;
+  }
   
   /* Cards */
    .demo-part{
